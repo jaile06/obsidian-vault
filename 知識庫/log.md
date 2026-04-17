@@ -7,7 +7,40 @@ type: log
 
 ---
 
-## 2026-04-17 Ingest | 三師爸EP04 — NotebookLM 五大進階應用
+## 2026-04-17 改造 | 五層架構重組
+
+**操作類型：** 架構改造
+
+**依據：** [[范凱-五層架構改造Karpathy方法]]、[[戴倫-自我進化AI知識庫]]
+
+**資料夾搬移（5 項）：**
+- Clippings/ → Notes/Clippings/
+- 每日筆記/ → LifeOS/每日筆記/
+- 創作庫/ → Writing/創作庫/
+- 影片筆記/ → Writing/影片筆記/
+- 教學素材/ → Writing/教學素材/
+
+**新建資料夾（3 項）：**
+- Notes/Conversations/（AI 對話知識）
+- LifeOS/（生活工作沉澱層）
+- Writing/（輸出層）
+
+**規則文件改寫：**
+- CLAUDE.md → AGENTS.md
+- 加入 AI 確認機制（先列方案 → 確認 → 執行）
+- 加入 Conversations 入庫規則
+- 加入 Writing 輸出回流規則
+- 加入合併規則（防重複建檔）
+
+**路徑更新：**
+- 所有 Sources 的 original_path 更新（Clippings → Notes/Clippings）
+- index.md 來源欄路徑更新
+
+**Conversation 入庫（1 篇）：**
+- Notes/Conversations/2026-04-17_五層架構改造.md
+
+---
+
 
 **操作類型：** Ingest
 
