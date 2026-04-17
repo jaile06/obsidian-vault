@@ -44,6 +44,7 @@ updated: '2026-04-17'
 | [[Obsidian Skill]] | 教 AI 使用 Obsidian 特殊語法的教學文件（Callout / Task List / FrontMatter） |
 | [[Google Apps Script]] | Google 雲端 JS 腳本，自動化 Workspace |
 | [[qmd搜尋引擎]] | 本地 Markdown 混合搜尋（BM25+向量），知識庫擴大後備用 |
+| [[Supabase]] | 有官方 MCP 的免費 PostgreSQL 雲端資料庫，可自然語言操控 |
 
 ### 網站設計
 
@@ -125,6 +126,7 @@ updated: '2026-04-17'
 | 頁面 | 來源 |
 |------|------|
 | [[XOOPS闖關遊戲程式腳本]] | OneDrive匯入 |
+| [[Claude基本功EP09-Supabase串接資料庫]] | Notes/Clippings（三師爸Sense Bar） |
 
 ### 技術工具
 

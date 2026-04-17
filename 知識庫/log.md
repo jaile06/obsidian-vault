@@ -7,6 +7,26 @@ type: log
 
 ---
 
+## 2026-04-17 Ingest | 三師爸EP09 — Supabase 串接資料庫
+
+**操作類型：** Ingest
+
+**處理的原始檔案（1 篇）：**
+- Claude基本功EP09：免費 Supabase 串起你的資料庫（三師爸Sense Bar）
+
+**新增 Sources 頁（1 頁）：**
+- Claude基本功EP09-Supabase串接資料庫
+
+**新增 Concepts 頁（1 頁）：**
+- Supabase（官方 MCP 支援的免費 PostgreSQL 雲端資料庫）
+
+**更新現有頁面（1 頁）：**
+- MCP（補充 Supabase 為官方 MCP 案例、官方 vs 非官方差異）
+
+**更新：** index.md（新增 1 Concept、1 Source）
+
+---
+
 ## 2026-04-17 改造 | 五層架構重組
 
 **操作類型：** 架構改造
