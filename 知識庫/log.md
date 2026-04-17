@@ -7,6 +7,29 @@ type: log
 
 ---
 
+## 2026-04-17 Ingest | 補充 Clippings + 缺口 Concepts
+
+**操作類型：** Ingest + 補建
+
+**新增 Sources 頁（2 頁）：**
+- EP08-Obsidian打造AI筆記流（Clippings）
+- Karpathy筆記術-Claude Code建立知識庫（Clippings）
+
+**補建使用者已建 Source 頁所缺的 Concepts（2 頁）：**
+- 對比度測試（由 5色調色盤 + 網站配色流程 引用）
+- 提示詞工程（由 AI思維重構 + AI工具總覽 引用）
+
+**新增 Concepts 頁（2 頁）：**
+- 第二大腦
+- Karpathy筆記方法
+
+**新增 Entities 頁（1 頁）：**
+- Andrej Karpathy
+
+**更新：** index.md（新增所有新頁面，補上 知識管理 主題分類）
+
+---
+
 ## 2026-04-17 Ingest | OneDrive匯入 批次處理
 
 **操作類型：** Ingest
