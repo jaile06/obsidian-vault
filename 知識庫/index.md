@@ -34,6 +34,8 @@ updated: 2026-04-17
 | [[Markdown語法]] | 技術工具 | 輕量標記語言，Obsidian 核心語法 |
 | [[Google Apps Script]] | 技術工具 | Google 雲端 JS 腳本，自動化 Workspace |
 | [[遊戲化教學]] | 教育設計 | 融入闖關、積分等遊戲機制提升學習動機 |
+| [[Memex]] | 知識管理 | Bush 1945 提出的聯想路徑私人知識庫概念 |
+| [[qmd搜尋引擎]] | 技術工具 | 本地 Markdown 混合搜尋（BM25+向量），知識庫擴大後備用 |
 
 ---
 
@@ -66,3 +68,4 @@ updated: 2026-04-17
 | [[Markdown語法指南]] | 技術工具 | OneDrive匯入 |
 | [[范凱-五層架構改造Karpathy方法]] | 知識管理 | Clippings（范凱说AI） |
 | [[戴倫-自我進化AI知識庫]] | 知識管理 | Clippings（我是戴倫） |
+| [[Karpathy-LLM Wiki原文]] | 知識管理 | Clippings（Andrej Karpathy） |

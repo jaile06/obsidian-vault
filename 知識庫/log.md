@@ -7,6 +7,28 @@ type: log
 
 ---
 
+## 2026-04-17 Ingest | Karpathy LLM Wiki 原文
+
+**操作類型：** Ingest
+
+**處理的原始檔案（1 篇）：**
+- LLM Wiki — Andrej Karpathy（原始定義文件）
+
+**新增 Sources 頁（1 頁）：**
+- Karpathy-LLM Wiki原文
+
+**新增 Concepts 頁（2 頁）：**
+- Memex（Bush 1945 聯想路徑知識庫概念）
+- qmd搜尋引擎（本地 Markdown 混合搜尋工具）
+
+**更新現有頁面（3 頁）：**
+- Karpathy筆記方法（新增 source 連結）
+- Andrej Karpathy（補充三種操作、Memex 根源、補齊實踐者名單）
+
+**更新：** index.md（新增 1 Source、2 Concepts）
+
+---
+
 ## 2026-04-17 補建 | 缺口 Concepts（第二輪）
 
 **操作類型：** 補建

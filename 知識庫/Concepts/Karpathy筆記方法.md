@@ -4,7 +4,7 @@ aliases: [Karpathy Wiki Method, Raw-Wiki方法]
 tags: [知識管理, AI筆記, Obsidian]
 related_concepts: ["[[第二大腦]]", "[[知識管理系統]]", "[[RAG]]"]
 related_entities: ["[[Andrej Karpathy]]"]
-sources: ["[[Karpathy筆記術-Claude Code建立知識庫]]", "[[EP08-Obsidian打造AI筆記流]]"]
+sources: ["[[Karpathy筆記術-Claude Code建立知識庫]]", "[[EP08-Obsidian打造AI筆記流]]", "[[Karpathy-LLM Wiki原文]]"]
 created: 2026-04-17
 updated: 2026-04-17
 ---
