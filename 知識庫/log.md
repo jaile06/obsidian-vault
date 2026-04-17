@@ -7,6 +7,31 @@ type: log
 
 ---
 
+## 2026-04-17 Ingest | 三師爸EP04 — NotebookLM 五大進階應用
+
+**操作類型：** Ingest
+
+**處理的原始檔案（1 篇）：**
+- Claude基本功EP04：NotebookLM 進階應用五大情境（三師爸Sense Bar）
+
+**新增 Sources 頁（1 頁）：**
+- Claude基本功EP04-NotebookLM五大進階應用
+
+**新增 Concepts 頁（3 頁）：**
+- MCP（Model Context Protocol，Claude 串接外部工具的協議）
+- Claude-Skill（多步驟工作流打包成一句話觸發的技能）
+- 布魯姆認知層次（記憶→理解→應用→分析→評鑑→創造）
+
+**新增 Entities 頁（1 頁）：**
+- 三師爸Sense Bar
+
+**更新現有頁面（1 頁）：**
+- NotebookLM（新增「五大應用情境」段落）
+
+**更新：** index.md（新增 3 Concepts、1 Source、1 Entity）
+
+---
+
 ## 2026-04-17 重構 | Concepts + Sources 子目錄分類
 
 **操作類型：** 結構重構

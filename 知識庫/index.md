@@ -33,6 +33,8 @@ updated: '2026-04-17'
 | [[提示詞工程]] | 設計 Prompt 使 AI 產出更精準回應 |
 | [[Context Window]] | LLM 單次能處理的最大 token 數量 |
 | [[多模態]] | AI 同時處理文字、圖片、音訊等多種輸入 |
+| [[MCP]] | Model Context Protocol，Claude 串接外部工具的協議 |
+| [[Claude-Skill]] | 將多步驟工作流打包成一句話觸發的可重用技能 |
 
 ### 工具設定
 
@@ -64,6 +66,7 @@ updated: '2026-04-17'
 | 頁面 | 一行摘要 |
 |------|---------|
 | [[遊戲化教學]] | 融入闖關、積分等遊戲機制提升學習動機 |
+| [[布魯姆認知層次]] | 記憶→理解→應用→分析→評鑑→創造六層學習深度框架 |
 
 ---
 
@@ -76,7 +79,8 @@ updated: '2026-04-17'
 | [[范凱说AI]] | YouTuber | 五層架構 + AI確認機制改造者 |
 | [[我是戴倫]] | YouTuber | 自動入庫 + /vault-lint 健康檢查實踐者 |
 | [[ChatGPT]] | AI工具 | OpenAI 開發，功能強大但資安等級較低 |
-| [[NotebookLM]] | AI工具 | Google RAG 架構知識整理工具 |
+| [[NotebookLM]] | AI工具 | Google RAG 架構知識整理工具，可透過 MCP 實現五大自動化應用 |
+| [[三師爸Sense Bar]] | YouTuber | Claude Code 實戰教學創作者，NotebookLM 五大化應用示範者 |
 | [[Adobe Color]] | 設計工具 | 從圖片自動取色，輸出 CSS 色票 |
 
 ---
@@ -90,6 +94,7 @@ updated: '2026-04-17'
 | [[Karpathy筆記術-Claude Code建立知識庫]] | Notes/Clippings（Paula 寶拉） |
 | [[Paula寶拉-Antigravity Skill設定]] | Notes/Clippings（Paula 寶拉） |
 | [[EP08-Obsidian打造AI筆記流]] | Notes/Clippings（三師爸） |
+| [[Claude基本功EP04-NotebookLM五大進階應用]] | Notes/Clippings（三師爸Sense Bar） |
 | [[范凱-五層架構改造Karpathy方法]] | Notes/Clippings（范凱说AI） |
 | [[戴倫-自我進化AI知識庫]] | Notes/Clippings（我是戴倫） |
 | [[Karpathy-LLM Wiki原文]] | Notes/Clippings（Andrej Karpathy） |
