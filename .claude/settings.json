@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Bash(git *)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "Bash(grep *)",
+      "Bash(cat *)",
+      "Bash(echo *)"
+    ]
+  }
+}
