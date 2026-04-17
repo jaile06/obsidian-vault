@@ -1,6 +1,6 @@
----
+﻿---
 type: source
-original_path: "Clippings/Karpathy 的 LLM Wiki 火了，我改造了一下，比原版好用十倍.md"
+original_path: "Notes/Clippings/Karpathy 的 LLM Wiki 火了，我改造了一下，比原版好用十倍.md"
 author: ["[[范凱说AI]]"]
 published: 2026-04-13
 tags: [知識管理, Obsidian, Karpathy, 五層架構, 內容創作]

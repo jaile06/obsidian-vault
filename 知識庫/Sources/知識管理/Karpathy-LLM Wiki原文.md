@@ -1,6 +1,6 @@
----
+﻿---
 type: source
-original_path: "Clippings/LLM Wiki - Andrej Karpathy.md"
+original_path: "Notes/Clippings/LLM Wiki - Andrej Karpathy.md"
 author: ["Andrej Karpathy"]
 published: "2026"
 tags: [知識管理, LLM, Wiki, 第二大腦]

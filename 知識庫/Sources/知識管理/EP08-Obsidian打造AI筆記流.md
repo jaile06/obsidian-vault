@@ -1,6 +1,6 @@
----
+﻿---
 type: source
-original_path: "Clippings/Claude基本功EP08 用 Obsidian 打造 AI 筆記流_為什麼你的筆記總是沒用？打造會自動成長的 AI 第二大腦！.md"
+original_path: "Notes/Clippings/Claude基本功EP08 用 Obsidian 打造 AI 筆記流_為什麼你的筆記總是沒用？打造會自動成長的 AI 第二大腦！.md"
 author: ["[[三師爸Sense Bar]]"]
 published: 2026-04-07
 tags: [Obsidian, 知識管理, AI筆記, Claude, 第二大腦]

@@ -87,12 +87,12 @@ updated: '2026-04-17'
 
 | 頁面 | 來源 |
 |------|------|
-| [[Karpathy筆記術-Claude Code建立知識庫]] | Clippings（Paula 寶拉） |
-| [[Paula寶拉-Antigravity Skill設定]] | Clippings（Paula 寶拉） |
-| [[EP08-Obsidian打造AI筆記流]] | Clippings（三師爸） |
-| [[范凱-五層架構改造Karpathy方法]] | Clippings（范凱说AI） |
-| [[戴倫-自我進化AI知識庫]] | Clippings（我是戴倫） |
-| [[Karpathy-LLM Wiki原文]] | Clippings（Andrej Karpathy） |
+| [[Karpathy筆記術-Claude Code建立知識庫]] | Notes/Clippings（Paula 寶拉） |
+| [[Paula寶拉-Antigravity Skill設定]] | Notes/Clippings（Paula 寶拉） |
+| [[EP08-Obsidian打造AI筆記流]] | Notes/Clippings（三師爸） |
+| [[范凱-五層架構改造Karpathy方法]] | Notes/Clippings（范凱说AI） |
+| [[戴倫-自我進化AI知識庫]] | Notes/Clippings（我是戴倫） |
+| [[Karpathy-LLM Wiki原文]] | Notes/Clippings（Andrej Karpathy） |
 
 ### AI技術
 

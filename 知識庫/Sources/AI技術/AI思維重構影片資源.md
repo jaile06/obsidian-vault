@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 original_path: 知識庫/ai 思維重構.md
 author: []

@@ -1,6 +1,6 @@
----
+﻿---
 type: source
-original_path: "Clippings/矽谷大神 Karpathy 筆記術！十分鐘學會如何用 Claude Code 建立個人知識庫.md"
+original_path: "Notes/Clippings/矽谷大神 Karpathy 筆記術！十分鐘學會如何用 Claude Code 建立個人知識庫.md"
 author: ["[[Paula 寶拉]]"]
 published: 2026-04-14
 tags: [Obsidian, 知識管理, AI筆記, Claude Code, Karpathy, 第二大腦]

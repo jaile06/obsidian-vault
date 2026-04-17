@@ -1,6 +1,6 @@
----
+﻿---
 type: source
-original_path: Clippings/Antigravity 實戰：無痛設定 Skills ，直出結構化筆記.md
+original_path: Notes/Clippings/Antigravity 實戰：無痛設定 Skills ，直出結構化筆記.md
 author:
   - '[[Paula 寶拉]]'
 published: '2026-03-01'

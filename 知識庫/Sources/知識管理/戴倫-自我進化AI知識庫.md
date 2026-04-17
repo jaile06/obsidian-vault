@@ -1,6 +1,6 @@
----
+﻿---
 type: source
-original_path: "Clippings/用大神卡帕西的方法，我打造了一個會自我進化的AI知識庫.md"
+original_path: "Notes/Clippings/用大神卡帕西的方法，我打造了一個會自我進化的AI知識庫.md"
 author: ["[[我是戴倫]]"]
 published: 2026-04-09
 tags: [知識管理, Obsidian, Karpathy, 內容創作, Claude Code]
