@@ -105,6 +105,20 @@ extracted_entities: []
 
 ---
 
+## Query 流程（回答問題時執行）
+
+1. 先讀 `知識庫/index.md`，找出相關頁面
+2. 讀取相關 Concepts / Entities / Sources 頁，綜合後回答
+3. **若這次回答有獨立保存價值**（分析、比較、跨頁面綜合、新洞見），自動將其存為新頁面：
+   - 存至 `知識庫/Concepts/` 或新建 `知識庫/Analyses/` 子目錄
+   - 加上完整 frontmatter（type: analysis 或 concept）
+   - 在 index.md 新增條目
+   - 在 log.md 記錄
+   - git commit + push
+4. **判斷標準**：回答只是事實查詢（如「誰是 Karpathy？」）→ 不存；有新綜合或原文未明說的洞見 → 存
+
+---
+
 ## 每週健康檢查（每週一 08:00 自動執行）
 
 1. 找出孤立頁面（frontmatter 中所有關聯欄位皆為空）
