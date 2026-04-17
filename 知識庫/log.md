@@ -7,6 +7,53 @@ type: log
 
 ---
 
+## 2026-04-17 重構 | Concepts + Sources 子目錄分類
+
+**操作類型：** 結構重構
+
+**搬移 Concepts（22頁）→ 6 個子目錄：**
+- 知識管理/（8頁）：第二大腦、Karpathy筆記方法、五層知識庫架構、AI確認機制、知識管理系統、自動入庫、知識庫健康檢查、Memex
+- AI技術/（4頁）：RAG、提示詞工程、Context Window、多模態
+- 工具設定/（4頁）：Markdown語法、Obsidian Skill、Google Apps Script、qmd搜尋引擎
+- 網站設計/（3頁）：網站配色系統、色彩角色、對比度測試
+- 數學/（3頁）：線型函數、一次函數、常數函數
+- 教育設計/（1頁）：遊戲化教學
+
+**搬移 Sources（14頁）→ 6 個子目錄：**
+- 知識管理/（6頁）：Paula寶拉、Karpathy筆記術、EP08、范凱、戴倫、LLM Wiki原文
+- AI技術/（2頁）：AI思維重構、AI工具總覽
+- 網站設計/（3頁）：5色調色盤、配色流程、免費設計資源
+- 數學/（1頁）：國中數學-線型函數
+- 程式開發/（1頁）：XOOPS闖關遊戲
+- 技術工具/（1頁）：Markdown語法指南
+
+**更新：** index.md（重寫為分類表格結構）
+
+---
+
+## 2026-04-17 Ingest | Paula 寶拉 — Antigravity Skill 設定教學
+
+**操作類型：** Ingest
+
+**處理的原始檔案（1 篇）：**
+- Antigravity 實戰：無痛設定 Skills，直出結構化筆記（Paula 寶拉）
+
+**新增 Sources 頁（1 頁）：**
+- Paula寶拉-Antigravity Skill設定
+
+**新增 Concepts 頁（1 頁）：**
+- Obsidian Skill（Callout / Task List / FrontMatter 三大差異）
+
+**新增 Entities 頁（1 頁）：**
+- Paula 寶拉
+
+**更新現有頁面（1 頁）：**
+- Markdown語法（新增 Obsidian 擴充語法區塊，延伸問題指向 Obsidian Skill）
+
+**更新：** index.md（新增 1 Concept、1 Source、1 Entity）
+
+---
+
 ## 2026-04-17 Ingest | Karpathy LLM Wiki 原文
 
 **操作類型：** Ingest
