@@ -24,6 +24,7 @@ updated: '2026-04-23'
 | [[自動入庫]] | 創作完成後自動提取洞見存回知識庫 |
 | [[知識庫健康檢查]] | 每週掃描孤立頁、斷裂連結、知識缺口 |
 | [[Memex]] | Bush 1945 提出的聯想路徑私人知識庫概念 |
+| [[AI影片轉逐字稿]] | Google AI Studio + Gemini 2.5 Pro 提取無字幕 YouTube 影片逐字稿的工作流 |
 
 ### AI技術
 
@@ -95,6 +96,8 @@ updated: '2026-04-23'
 | [[dotLLM]] | 開源工具 | C#/.NET 10 原生 LLM 推理引擎，OpenAI 相容 API |
 | [[Adobe Color]] | 設計工具 | 從圖片自動取色，輸出 CSS 色票 |
 | [[AgentCrew Academy]] | YouTuber | Dustin 主持，Claude Code 四層設定系統解說者 |
+| [[Chuck Chiang]] | YouTuber | AI 工具教學，Google AI Studio 逐字稿提取示範者 |
+| [[Google AI Studio]] | AI開發平台 | Google 免費 AI 平台，Gemini 模型入口，支援影片逐字稿提取 |
 
 ---
 
@@ -107,6 +110,7 @@ updated: '2026-04-23'
 | [[Karpathy筆記術-Claude Code建立知識庫]] | Notes/Clippings（Paula 寶拉） |
 | [[Paula寶拉-Antigravity Skill設定]] | Notes/Clippings（Paula 寶拉） |
 | [[EP08-Obsidian打造AI筆記流]] | Notes/Clippings（三師爸） |
+| [[ChuckChiang-GoogleAIStudio逐字稿教學]] | Notes/Clippings（Chuck Chiang） |
 | [[Claude基本功EP04-NotebookLM五大進階應用]] | Notes/Clippings（三師爸Sense Bar） |
 | [[范凱-五層架構改造Karpathy方法]] | Notes/Clippings（范凱说AI） |
 | [[戴倫-自我進化AI知識庫]] | Notes/Clippings（我是戴倫） |
