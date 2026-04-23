@@ -7,6 +7,56 @@ type: log
 
 ---
 
+## 2026-04-22 Ingest | 工程師下班有約 — Claude Code 實戰 OpenSpec
+
+**操作類型：** Ingest
+
+**處理的原始檔案（1 篇）：**
+- 【Claude Code 實戰】一次搞懂 OpenSpec，讓專案每次迭代都有依據（工程師下班有約）
+
+**新增 Sources 頁（1 頁）：**
+- 知識庫/Sources/程式開發/工程師下班有約-ClaudeCode實戰OpenSpec
+
+**新增 Entities 頁（1 頁）：**
+- 知識庫/Entities/工程師下班有約
+
+**更新頁面：**
+- 知識庫/Concepts/AI技術/OpenSpec（補充「AI 主動提問」與「知識斷層防護」兩個重點）
+- 知識庫/index.md（新增上述條目）
+
+---
+
+## 2026-04-22 Ingest | OpenSpec 規範驅動開發（4 篇）
+
+**操作類型：** Ingest
+
+**處理的原始檔案（4 篇）：**
+- OpenSpec：让AI按规范写代码的革命工具（大雷早上好）
+- 用 OpenSpec 做了一個公車追蹤器！（沈弘哲 twtrubiks）
+- 限制AI自由 AI编程的正确姿势（为什么叫QQ）
+- OpenSpec规范驱动开发！（AI超元域）
+
+**新增 Sources 頁（4 頁）：**
+- 知識庫/Sources/程式開發/大雷-OpenSpec工具評測
+- 知識庫/Sources/程式開發/twtrubiks-OpenSpec公車追蹤器心得
+- 知識庫/Sources/程式開發/QQ-限制AI自由度AI編程
+- 知識庫/Sources/程式開發/AI超元域-OpenSpec規範驅動開發
+
+**新增 Concepts 頁（2 頁）：**
+- 知識庫/Concepts/AI技術/OpenSpec
+- 知識庫/Concepts/AI技術/規範驅動開發SDD
+
+**新增 Entities 頁（4 頁）：**
+- 知識庫/Entities/大雷早上好
+- 知識庫/Entities/沈弘哲twtrubiks
+- 知識庫/Entities/为什么叫QQ
+- 知識庫/Entities/AI超元域
+
+**更新頁面：**
+- 知識庫/index.md（新增上述所有條目）
+
+---
+
 ## 2026-04-17 Ingest | 三師爸EP09 — Supabase 串接資料庫
 
 **操作類型：** Ingest
