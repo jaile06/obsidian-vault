@@ -6,7 +6,7 @@ updated: '2026-04-23'
 
 # 知識庫索引
 
-> 最後更新：2026-04-22
+> 最後更新：2026-04-23
 
 ---
 
@@ -37,6 +37,7 @@ updated: '2026-04-23'
 | [[Claude-Skill]] | 將多步驟工作流打包成一句話觸發的可重用技能 |
 | [[OpenSpec]] | 規範驅動 AI 編程工具；explore→propose→apply→archive 四步流程 |
 | [[規範驅動開發SDD]] | 先有規格才有代碼；含 dotLLM ROADMAP.md 驅動、雙模型審查等實戰方法論 |
+| [[Claude Code設定四層]] | CLAUDE.md／Rules／Memory／Hooks 四層遞進，從建議升級到強制執行 |
 
 ### 工具設定
 
@@ -93,6 +94,7 @@ updated: '2026-04-23'
 | [[Konrad Kokosa]] | 開發者 / 部落客 | .NET 效能專家，dotLLM 作者，AI 輔助開發方法論實踐者 |
 | [[dotLLM]] | 開源工具 | C#/.NET 10 原生 LLM 推理引擎，OpenAI 相容 API |
 | [[Adobe Color]] | 設計工具 | 從圖片自動取色，輸出 CSS 色票 |
+| [[AgentCrew Academy]] | YouTuber | Dustin 主持，Claude Code 四層設定系統解說者 |
 
 ---
 
@@ -116,6 +118,7 @@ updated: '2026-04-23'
 |------|------|
 | [[AI思維重構影片資源]] | OneDrive匯入 |
 | [[AI工具總覽]] | OneDrive匯入 |
+| [[AgentCrewAcademy-Claude四大設定]] | Notes/Clippings（AgentCrew Academy） |
 
 ### 網站設計
 
