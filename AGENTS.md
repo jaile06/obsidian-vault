@@ -78,7 +78,7 @@
 9. 在 `知識庫/log.md` 最上方新增一筆 ingest 記錄。
 10. 若本次流程已明確完成且你要求同步，執行：
     `git add . && git commit -m "sync: YYYY-MM-DD ingest" && git push`
-11. 若原始檔案已完成處理，依你的確認結果清理 `Notes/` 中已處理的入口檔案，保持入口清空。
+11. 原始檔案處理完成後，將其從 `Notes/Clippings/` 根目錄**移動**至 `Notes/Clippings/Archive/`，**不刪除**。根目錄只保留尚未處理的新 Clipping，Archive 為永久 Raw 存檔。
 
 ### 合併規則（避免重複建檔）
 

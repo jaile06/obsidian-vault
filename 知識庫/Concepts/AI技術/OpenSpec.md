@@ -17,14 +17,16 @@ related_entities:
   - "[[AI超元域]]"
   - "[[为什么叫QQ]]"
   - "[[工程師下班有約]]"
+  - "[[ZEDOTECH]]"
 sources:
   - "[[大雷-OpenSpec工具評測]]"
   - "[[twtrubiks-OpenSpec公車追蹤器心得]]"
   - "[[AI超元域-OpenSpec規範驅動開發]]"
   - "[[QQ-限制AI自由度AI編程]]"
   - "[[工程師下班有約-ClaudeCode實戰OpenSpec]]"
+  - "[[ZEDOTECH-OpenSpec實戰VSCode示範]]"
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-23
 ---
 
 ## 定義
@@ -42,6 +44,8 @@ OpenSpec 是一個輕量、開源的規範驅動 AI 編程工作流工具（GitH
 - **適合場景**：現有專案迭代（「從 1 到 N」），比 SpecKit 更適合老專案改造
 - **AI 主動提問**：在 explore 階段可讓 AI 主動追問釐清需求，不再由使用者單方面說不清楚；特別適合 PM / 業務等非技術角色
 - **知識斷層防護**：每次變更都有文件紀錄，即使關鍵人員離職也不怕系統知識斷層
+- **Verify 機制**：apply 完成後執行 `/opsx:verify`，AI 自動比對程式碼與規格，列出 critical / warning / suggestion 三級問題；critical 必修，suggestion 可選（來源：[[ZEDOTECH-OpenSpec實戰VSCode示範]]）
+- **每輪開新對話**：做新功能時建議開新 AI 對話視窗，避免上輪對話殘留影響 AI 判斷
 
 ## 不同視角 / 矛盾之處
 

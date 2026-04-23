@@ -1,7 +1,7 @@
 ---
 title: 知識庫索引
 type: index
-updated: '2026-04-22'
+updated: '2026-04-23'
 ---
 
 # 知識庫索引
@@ -36,7 +36,7 @@ updated: '2026-04-22'
 | [[MCP]] | Model Context Protocol，Claude 串接外部工具的協議 |
 | [[Claude-Skill]] | 將多步驟工作流打包成一句話觸發的可重用技能 |
 | [[OpenSpec]] | 規範驅動 AI 編程工具；explore→propose→apply→archive 四步流程 |
-| [[規範驅動開發SDD]] | 先有規格才有代碼；限制 AI 自由度換取可控性的開發哲學 |
+| [[規範驅動開發SDD]] | 先有規格才有代碼；含 dotLLM ROADMAP.md 驅動、雙模型審查等實戰方法論 |
 
 ### 工具設定
 
@@ -89,6 +89,9 @@ updated: '2026-04-22'
 | [[为什么叫QQ]] | YouTuber | AI 編程哲學，「限制 AI 自由度」論述，比較 Superpowers/gstack/OpenSpec |
 | [[AI超元域]] | YouTuber | AI 工具保姆級教學，OpenSpec iOS 實戰演示 |
 | [[工程師下班有約]] | 工程師 YouTuber / 作者 | 林鼎淵，Claude Code + OpenSpec 實戰，《工程師下班有約》作者 |
+| [[ZEDOTECH]] | YouTuber | 主持人 Nicky，OpenSpec 最完整中文操作示範頻道 |
+| [[Konrad Kokosa]] | 開發者 / 部落客 | .NET 效能專家，dotLLM 作者，AI 輔助開發方法論實踐者 |
+| [[dotLLM]] | 開源工具 | C#/.NET 10 原生 LLM 推理引擎，OpenAI 相容 API |
 | [[Adobe Color]] | 設計工具 | 從圖片自動取色，輸出 CSS 色票 |
 
 ---
@@ -139,6 +142,8 @@ updated: '2026-04-22'
 | [[QQ-限制AI自由度AI編程]] | Notes/Clippings（为什么叫QQ） |
 | [[AI超元域-OpenSpec規範驅動開發]] | Notes/Clippings（AI超元域） |
 | [[工程師下班有約-ClaudeCode實戰OpenSpec]] | Notes/Clippings（工程師下班有約） |
+| [[ZEDOTECH-OpenSpec實戰VSCode示範]] | Notes/Clippings（ZEDOTECH） |
+| [[KokosaKonrad-dotLLM-CSharp推理引擎]] | Notes/Clippings（Konrad Kokosa） |
 
 ### 技術工具
 

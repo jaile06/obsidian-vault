@@ -7,6 +7,30 @@ type: log
 
 ---
 
+## 2026-04-23 Ingest | ZEDOTECH OpenSpec 實戰 + dotLLM AI 輔助開發
+
+**操作類型：** Ingest
+
+**處理的原始檔案（2 篇）：**
+- 未來的程式開發？用 OpenSpec + AI，在 VS Code 幾乎不用寫程式（ZEDOTECH）
+- Introducing dotLLM - Building an LLM Inference Engine in C#（Konrad Kokosa）
+
+**新增 Sources 頁（2 頁）：**
+- 知識庫/Sources/程式開發/ZEDOTECH-OpenSpec實戰VSCode示範
+- 知識庫/Sources/程式開發/KokosaKonrad-dotLLM-CSharp推理引擎
+
+**新增 Entities 頁（3 頁）：**
+- 知識庫/Entities/ZEDOTECH
+- 知識庫/Entities/KonradKokosa
+- 知識庫/Entities/dotLLM
+
+**更新頁面：**
+- 知識庫/Concepts/AI技術/OpenSpec（新增 ZEDOTECH 來源、Verify 機制、每輪開新對話兩個要點）
+- 知識庫/Concepts/AI技術/規範驅動開發SDD（新增「AI 輔助開發方法論」段落：ROADMAP.md 驅動、雙模型審查、Skill 自動化、AI 極限；合併入 SDD 而非新建頁）
+- 知識庫/index.md（新增上述條目）
+
+---
+
 ## 2026-04-22 Ingest | 工程師下班有約 — Claude Code 實戰 OpenSpec
 
 **操作類型：** Ingest
