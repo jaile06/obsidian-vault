@@ -28,6 +28,7 @@ updated: '2026-04-23'
 | [[AI超元域]] | YouTuber | AI 工具保姆級教學創作者 |
 | [[AgentCrew Academy]] | YouTuber | Claude Code 四層設定系統解說者 |
 | [[Chuck Chiang]] | YouTuber | Google AI Studio 逐字稿教學示範者 |
+| [[簡睿學堂]] | YouTuber | Obsidian 工具教學系列創作者 |
 
 ---
 

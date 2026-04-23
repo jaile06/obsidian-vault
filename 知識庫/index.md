@@ -11,7 +11,7 @@ updated: '2026-04-23'
 
 ---
 
-## 1. Concepts（31）
+## 1. Concepts（32）
 
 ### 知識管理
 - [[第二大腦]]
@@ -32,6 +32,7 @@ updated: '2026-04-23'
 ### 工具設定
 - [[Markdown語法]]
 - [[Obsidian Skill]]
+- [[Obsidian PDF擷取]]
 - [[Google Apps Script]]
 - [[qmd搜尋引擎]]
 - [[Supabase]]
@@ -46,7 +47,7 @@ updated: '2026-04-23'
 
 ---
 
-## 2. Entities（20）
+## 2. Entities（21）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -59,13 +60,14 @@ updated: '2026-04-23'
 - [[Konrad Kokosa]]
 - [[NotebookLM]]
 - [[Google AI Studio]]
+- [[簡睿學堂]]
 
 **完整清單：**
 - [[index-entities]]
 
 ---
 
-## 3. Sources（27）
+## 3. Sources（28）
 
 ### 代表性來源
 - [[Karpathy筆記術-Claude Code建立知識庫]]

@@ -22,6 +22,7 @@ updated: '2026-04-23'
 | [[范凱-五層架構改造Karpathy方法]] | Notes/Clippings（范凱说AI） |
 | [[戴倫-自我進化AI知識庫]] | Notes/Clippings（我是戴倫） |
 | [[Karpathy-LLM Wiki原文]] | Notes/Clippings（Andrej Karpathy） |
+| [[簡睿學堂-Obsidian-PDF擷取工作流]] | Notes/Clippings（簡睿學堂） |
 
 ---
 

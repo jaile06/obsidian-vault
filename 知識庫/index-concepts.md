@@ -49,6 +49,7 @@ updated: '2026-04-23'
 |------|---------|
 | [[Markdown語法]] | Obsidian 核心 Markdown 語法 |
 | [[Obsidian Skill]] | 教 AI 使用 Obsidian 特殊語法 |
+| [[Obsidian PDF擷取]] | 內建 PDF 檢視器 + PDF to Markdown 外掛工作流 |
 | [[Google Apps Script]] | Google 雲端 JS 腳本 |
 | [[qmd搜尋引擎]] | 本地 Markdown 混合搜尋工具 |
 | [[Supabase]] | 有官方 MCP 的免費 PostgreSQL 雲端資料庫 |
