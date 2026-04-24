@@ -8,7 +8,14 @@
 ## Skill 1: Ingest & Organize
 
 **階段一：提案（不動檔案）**
-1. 讀取 `Notes/Clippings/` 或 `Notes/Conversations/` 新文件
+1. 先詢問：「這份 md 是否從 `D:\note` 自行匯入的檔案？」
+   - **是** →
+     - 將 `.md` 與 `.docx` 移至 `Notes/Clippings/`
+     - 若 `D:\note\media\` 有對應圖片：
+       - 依 md 檔名產生簡短英文子目錄名（如 `modern-state-challenge`）
+       - 圖片重新命名為 `{短英文名}_01.png`、`_02.png`…
+       - 移至 vault 的 `media/{短英文名}/`
+   - **否** → 直接讀取 `Notes/Clippings/` 或 `Notes/Conversations/` 新文件
 2. 列出：新建 / 更新哪些 Source・Concept・Entity、建議標籤、交叉引用
 3. 不確定的標注 ⚠️ → **等確認**
 
