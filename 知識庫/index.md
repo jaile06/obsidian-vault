@@ -1,7 +1,7 @@
 ---
 title: 知識庫索引
 type: index
-updated: '2026-04-23'
+updated: '2026-04-24'
 ---
 
 # 知識庫索引
@@ -11,7 +11,7 @@ updated: '2026-04-23'
 
 ---
 
-## 1. Concepts（32）
+## 1. Concepts（34）
 
 ### 知識管理
 - [[第二大腦]]
@@ -28,6 +28,7 @@ updated: '2026-04-23'
 - [[規範驅動開發SDD]]
 - [[Claude Code設定四層]]
 - [[XOOPS開發規範]]
+- [[Claude Design]]
 
 ### 工具設定
 - [[Markdown語法]]
@@ -41,13 +42,14 @@ updated: '2026-04-23'
 - 網站設計：[[網站配色系統]]、[[對比度測試]]
 - 數學：[[線型函數]]、[[一次函數]]
 - 教育設計：[[遊戲化教學]]、[[布魯姆認知層次]]
+- 地理：[[西亞與北非地理]]
 
 **完整清單：**
 - [[index-concepts]]
 
 ---
 
-## 2. Entities（21）
+## 2. Entities（22）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -61,13 +63,14 @@ updated: '2026-04-23'
 - [[NotebookLM]]
 - [[Google AI Studio]]
 - [[簡睿學堂]]
+- [[李哈利Harry]]
 
 **完整清單：**
 - [[index-entities]]
 
 ---
 
-## 3. Sources（28）
+## 3. Sources（30）
 
 ### 代表性來源
 - [[Karpathy筆記術-Claude Code建立知識庫]]
@@ -78,6 +81,8 @@ updated: '2026-04-23'
 - [[KokosaKonrad-dotLLM-CSharp推理引擎]]
 - [[XOOPS-PromptKit-三種開發Prompt]]
 - [[XOOPS-任務單範本]]
+- [[李哈利Harry-ClaudeDesign設計師危機]]
+- [[國中社會2下地理L03-西亞與北非]]
 
 **完整清單：**
 - [[index-sources]]

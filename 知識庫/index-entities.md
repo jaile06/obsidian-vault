@@ -1,7 +1,7 @@
 ---
 title: Entities 索引
 type: index
-updated: '2026-04-23'
+updated: '2026-04-24'
 ---
 
 # Entities 索引
@@ -29,6 +29,7 @@ updated: '2026-04-23'
 | [[AgentCrew Academy]] | YouTuber | Claude Code 四層設定系統解說者 |
 | [[Chuck Chiang]] | YouTuber | Google AI Studio 逐字稿教學示範者 |
 | [[簡睿學堂]] | YouTuber | Obsidian 工具教學系列創作者 |
+| [[李哈利Harry]] | YouTuber | AI 工具評測與教學（Claude Design 實戰示範者） |
 
 ---
 

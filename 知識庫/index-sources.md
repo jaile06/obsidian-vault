@@ -1,7 +1,7 @@
 ---
 title: Sources 索引
 type: index
-updated: '2026-04-23'
+updated: '2026-04-24'
 ---
 
 # Sources 索引
@@ -33,6 +33,7 @@ updated: '2026-04-23'
 | [[AI思維重構影片資源]] | OneDrive匯入 |
 | [[AI工具總覽]] | OneDrive匯入 |
 | [[AgentCrewAcademy-Claude四大設定]] | Notes/Clippings（AgentCrew Academy） |
+| [[李哈利Harry-ClaudeDesign設計師危機]] | Notes/Clippings（李哈利Harry） |
 
 ---
 
@@ -77,6 +78,16 @@ updated: '2026-04-23'
 | 頁面 | 來源 |
 |------|------|
 | [[Markdown語法指南]] | OneDrive匯入 |
+
+---
+
+---
+
+## 地理教育
+
+| 頁面 | 來源 |
+|------|------|
+| [[國中社會2下地理L03-西亞與北非]] | Notes/Clippings（教材） |
 
 ---
 
