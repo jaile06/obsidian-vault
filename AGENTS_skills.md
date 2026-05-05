@@ -7,6 +7,29 @@
 
 ## Skill 1: Ingest & Organize
 
+**階段零：PDF 偵測與轉換（不動原檔，先報告再轉）**
+0. 掃描 `Notes/Clippings/` 是否有 `.pdf` 檔
+   - **有** →
+     - 列出偵測到的 PDF 清單，等使用者確認
+     - 確認後，對每個 PDF 執行：
+       ```
+       .venv/Scripts/markitdown "<file>.pdf" -o "<同名>.md"
+       ```
+     - 為產出的 `.md` 補上 frontmatter：
+       ```yaml
+       ---
+       title: "<PDF 檔名>"
+       source: ""
+       author: []
+       created: <今日日期>
+       tags:
+         - clippings
+       ---
+       ```
+     - 列出轉換結果（成功 / 失敗），等確認後繼續
+     - 原 PDF 與產出的 MD（同名）最終**一起**移至 `Notes/Clippings/Archive/`
+   - **無** → 跳過，直接進階段一
+
 **階段一：提案（不動檔案）**
 1. 先詢問：「這份 md 是否從 `D:\note` 自行匯入的檔案？」
    - **是** →
@@ -22,7 +45,7 @@
 **階段二：執行**
 4. 建 Source → 提取 Concept → 提取 Entity（已存在則合併，不重建）
 5. 加雙向連結 `[[]]` → 更新 `index.md` → 寫 `log/YYYY-MM.md`
-6. 完成後原檔移至 `Notes/Clippings/Archive/`
+6. 完成後原檔移至 `Notes/Clippings/Archive/`（PDF 來源：PDF + 同名 MD 一起移）
 7. 同步：`git add . && git commit -m "sync: YYYY-MM-DD ingest" && git push`
 
 **合併規則：** 先讀 index.md；同義詞用 `aliases` 合併；絕不建重複頁。
