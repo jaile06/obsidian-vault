@@ -14,10 +14,14 @@ related_concepts:
   - '[[提示詞工程]]'
 related_entities:
   - '[[Paula 寶拉]]'
+  - '[[Nico投资有道]]'
+  - '[[Martina在进化]]'
 sources:
   - '[[Paula寶拉-Antigravity Skill設定]]'
+  - '[[Nico投资有道-ObsidianClaudian知識庫入門]]'
+  - '[[Martina在进化-AI第二大腦告別靈感焦慮]]'
 created: '2026-04-17'
-updated: '2026-04-17'
+updated: '2026-05-05'
 ---
 
 ## 定義
@@ -64,7 +68,24 @@ description: 當使用者要求整理筆記、建立 Obsidian 頁面時使用
 - Skill 只提供語法說明，AI 仍需理解情境才能在適當位置套用（e.g. 不會對所有內容都加 Callout）
 - 效果依賴 AI 模型的理解能力，不同模型結果可能有差異
 
+### Claudian 插件指令系統（Nico 投资有道 / Martina）
+
+另一種 Skill 實作形態：透過 Obsidian 社群插件 Claudian，在知識庫內直接使用斜線指令操控 AI。
+
+| 指令 | 功能 |
+|------|------|
+| `/ask` | 搜尋知識庫筆記 |
+| `/report` | 自動生成週報 |
+| `/review` | 定期回顧摘要 |
+| `/daily` | 生成每日任務（含昨日未完成事項） |
+| `/capture` | 快速捕獲網頁或文字 → 結構化筆記 |
+
+- Claudian 插件尚未上架社群市場，需手動安裝（main.js + manifest.json + styles.css）
+- 大陸環境需額外設定代理環境變數（Clash 預設端口 7890）
+- 可自訂新 Skill：在對話框描述需求，Claudian 自動產生 skill 配置文件
+
 ## 延伸問題
 
 - 如何為自訂工具（如 Dataview、Canvas）撰寫自己的 Skill？
 - Skill 與 Prompt 有何差異？何時用 Skill，何時用 Prompt？
+- Claudian 的 12 個斜線指令如何對應到五層架構的操作流程？

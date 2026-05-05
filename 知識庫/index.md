@@ -1,7 +1,7 @@
 ---
 title: 知識庫索引
 type: index
-updated: '2026-04-24'
+updated: '2026-05-05'
 ---
 
 # 知識庫索引
@@ -50,7 +50,7 @@ updated: '2026-04-24'
 
 ---
 
-## 2. Entities（22）
+## 2. Entities（26）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -65,13 +65,17 @@ updated: '2026-04-24'
 - [[Google AI Studio]]
 - [[簡睿學堂]]
 - [[李哈利Harry]]
+- [[Nico投资有道]]
+- [[Lewis搞事日記]]
+- [[Martina在进化]]
+- [[MarkItDown]]
 
 **完整清單：**
 - [[index-entities]]
 
 ---
 
-## 3. Sources（31）
+## 3. Sources（35）
 
 ### 代表性來源
 - [[Karpathy筆記術-Claude Code建立知識庫]]
@@ -85,6 +89,10 @@ updated: '2026-04-24'
 - [[李哈利Harry-ClaudeDesign設計師危機]]
 - [[國中社會2下地理L03-西亞與北非]]
 - [[國中社會2下歷史L03-現代國家的挑戰]]
+- [[Nico投资有道-ObsidianClaudian知識庫入門]]
+- [[Martina在进化-AI第二大腦告別靈感焦慮]]
+- [[Lewis搞事日記-Karpathy知識庫SKILL]]
+- [[Microsoft-MarkItDown文件轉Markdown]]
 
 **完整清單：**
 - [[index-sources]]
