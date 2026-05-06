@@ -15,8 +15,10 @@ sources:
   - "[[XOOPS-PromptKit-三種開發Prompt]]"
   - "[[XOOPS-任務單範本]]"
   - "[[XOOPS闖關遊戲程式腳本]]"
+  - "[[conv:2026-04-23-OpenSpec整合XOOPS開發專案]]"
+  - "[[conv:2026-04-23-OpenSpec-XOOPS開發規範操作手冊]]"
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-05-06
 ---
 
 ## 定義
@@ -50,6 +52,27 @@ updated: 2026-04-23
 - 字體 `1.1rem` 以上
 - 高對比度色彩搭配
 - 較大的點擊目標
+
+## OpenSpec 整合操作流程
+
+每次新功能開發標準流程（搭配 OpenSpec）：
+
+```
+一次性初始化
+  npx openspec init → 生成 specs/ + AI 工作指引
+  手動建 specs/xoops-convention.md（記錄模組慣例、禁止事項）
+
+每次功能迭代
+  /explore → AI 主動追問需求
+  /propose → 產出 proposal.md + tasks.md
+  /apply   → 逐 task 執行，完成一個 git commit 一次
+  /archive → 歸檔，更新主 specs
+```
+
+主規格書 `specs/xoops-module-convention.md` 關鍵內容：
+- 模組目錄結構慣例（xoops_version.php、class/、admin/、templates/、language/zht/）
+- 資料庫操作規則（禁止直接 SQL，一律用 `$xoopsDB->query()`）
+- 表格命名格式：`{db_prefix}_modulename_tablename`
 
 ## 不同視角 / 矛盾之處
 

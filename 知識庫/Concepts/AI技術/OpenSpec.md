@@ -25,8 +25,10 @@ sources:
   - "[[QQ-限制AI自由度AI編程]]"
   - "[[工程師下班有約-ClaudeCode實戰OpenSpec]]"
   - "[[ZEDOTECH-OpenSpec實戰VSCode示範]]"
+  - "[[conv:2026-04-23-OpenSpec整合XOOPS開發專案]]"
+  - "[[conv:2026-04-23-OpenSpec安裝初始化]]"
 created: 2026-04-22
-updated: 2026-04-23
+updated: 2026-05-06
 ---
 
 ## 定義
@@ -46,6 +48,15 @@ OpenSpec 是一個輕量、開源的規範驅動 AI 編程工作流工具（GitH
 - **知識斷層防護**：每次變更都有文件紀錄，即使關鍵人員離職也不怕系統知識斷層
 - **Verify 機制**：apply 完成後執行 `/opsx:verify`，AI 自動比對程式碼與規格，列出 critical / warning / suggestion 三級問題；critical 必修，suggestion 可選（來源：[[ZEDOTECH-OpenSpec實戰VSCode示範]]）
 - **每輪開新對話**：做新功能時建議開新 AI 對話視窗，避免上輪對話殘留影響 AI 判斷
+
+## XOOPS 專案整合要點
+
+XOOPS 老舊 PHP CMS 的痛點與 OpenSpec 高度吻合：
+- **跨資料夾架構**（class/、admin/、templates/、language/）→ AI 容易亂改，specs 可明確限定範圍
+- **老舊慣例多**（XoopsForm、XoopsObject、XoopsHandler）→ 寫入 specs/xoops-convention.md 讓 AI 遵守
+- **需求持續追加**（客戶上線後不斷改）→ delta spec 確保每次變更都有文件
+
+安裝方式：`npm install -g openspec`（需 Node.js 18+），初始化：`npx openspec init`
 
 ## 不同視角 / 矛盾之處
 

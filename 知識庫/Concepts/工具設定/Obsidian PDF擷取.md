@@ -8,8 +8,9 @@ related_entities:
   - '[[簡睿學堂]]'
 sources:
   - '[[簡睿學堂-Obsidian-PDF擷取工作流]]'
+  - '[[conv:2026-04-23_Obsidian-PDF擷取工作流]]'
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-05-06'
 ---
 
 ## 定義
