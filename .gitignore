@@ -1,16 +1,21 @@
-# Obsidian workspace files
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/*/data.json
-
-# System files
-.DS_Store
-Thumbs.db
+# Windows System Files
 desktop.ini
+[Dd]esktop.ini
+Thumbs.db
+ehthumbs.db
 
-# Temp files
-*.tmp
-*.bak
+# macOS System Files
+.DS_Store
 
-# Python virtual environments
+# Python
 .venv/
+__pycache__/
+*.py[cod]
+
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+
+# Local Environment
+.env
