@@ -44,6 +44,8 @@
 
 **階段二：執行**
 4. 建 Source → 提取 Concept → 提取 Entity（已存在則合併，不重建）
+   - **單次 Edit 原則**：更新既有 Concept/Entity 頁時，frontmatter（sources、updated）與內容變更必須合併成一次 Edit，禁止對同一檔案發出多次 Edit 呼叫。
+   - 若無實質內容新增，不更新 Concept 頁（跳過該頁）。
 5. 加雙向連結 `[[]]` → 更新 `index.md` → 寫 `log/YYYY-MM.md`
 6. 完成後原檔移至 `Notes/Clippings/Archive/`（PDF 來源：PDF + 同名 MD 一起移）
 7. 同步：`git add . && git commit -m "sync: YYYY-MM-DD ingest" && git push`
