@@ -1,6 +1,6 @@
 ---
-title: "OpenSpec XOOPS 主規格書範本"
-description: "複製到 XOOPS 專案的 specs/convention.md 使用，這是 AI 每次開發都會讀的「憲法」"
+title: OpenSpec XOOPS 主規格書範本
+description: 複製到 XOOPS 專案的 specs/convention.md 使用，這是 AI 每次開發都會讀的「規則」
 tags:
   - template
   - openspec
