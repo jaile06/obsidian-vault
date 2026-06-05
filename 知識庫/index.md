@@ -55,7 +55,7 @@ updated: '2026-06-05'
 
 ---
 
-## 2. Entities（30）
+## 2. Entities（31）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -78,17 +78,19 @@ updated: '2026-06-05'
 - [[安聯台灣科技]]
 - [[統一奔騰]]
 - [[鈔能力實驗室]]
+- [[蕭碧燕]]
 
 **完整清單：**
 - [[index-entities]]
 
 ---
 
-## 3. Sources（59）
+## 3. Sources（60）
 
 ### 代表性來源
 - [[基金小姐姐-台股主動基金的長期優勢]]
 - [[鈔能力實驗室-富人借貸思維與財務槓桿]]
+- [[基金小姐姐-主動式ETF與主動基金的選擇]]
 - [[Karpathy筆記術-Claude Code建立知識庫]]
 - [[AgentCrewAcademy-Claude四大設定]]
 - [[Claude基本功EP04-NotebookLM五大進階應用]]
