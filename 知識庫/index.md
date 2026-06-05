@@ -1,7 +1,7 @@
 ---
 title: 知識庫索引
 type: index
-updated: '2026-05-06'
+updated: '2026-06-05'
 
 ---
 
@@ -12,7 +12,7 @@ updated: '2026-05-06'
 
 ---
 
-## 1. Concepts（39）
+## 1. Concepts（40）
 
 ### 知識管理
 - [[第二大腦]]
@@ -39,6 +39,9 @@ updated: '2026-05-06'
 - [[qmd搜尋引擎]]
 - [[Supabase]]
 
+### 投資理財
+- [[主動投資vs被動投資]]
+
 ### 其他主題
 - 網站設計：[[網站配色系統]]、[[對比度測試]]
 - 數學：[[線型函數]]、[[一次函數]]
@@ -51,7 +54,7 @@ updated: '2026-05-06'
 
 ---
 
-## 2. Entities（26）
+## 2. Entities（29）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -70,15 +73,19 @@ updated: '2026-05-06'
 - [[Lewis搞事日記]]
 - [[Martina在进化]]
 - [[MarkItDown]]
+- [[基金小姐姐詹璇依]]
+- [[安聯台灣科技]]
+- [[統一奔騰]]
 
 **完整清單：**
 - [[index-entities]]
 
 ---
 
-## 3. Sources（57）
+## 3. Sources（58）
 
 ### 代表性來源
+- [[基金小姐姐-台股主動基金的長期優勢]]
 - [[Karpathy筆記術-Claude Code建立知識庫]]
 - [[AgentCrewAcademy-Claude四大設定]]
 - [[Claude基本功EP04-NotebookLM五大進階應用]]
