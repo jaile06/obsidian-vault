@@ -34,6 +34,9 @@ updated: '2026-04-24'
 | [[AI工具總覽]] | OneDrive匯入 |
 | [[AgentCrewAcademy-Claude四大設定]] | Notes/Clippings（AgentCrew Academy） |
 | [[李哈利Harry-ClaudeDesign設計師危機]] | Notes/Clippings（李哈利Harry） |
+| [[GaryChen-HumanSOP轉AgenticWorkflow四步法]] | Notes/Clippings（Gary Chen） |
+| [[阿西出海-8個必裝AISkill分類]] | Notes/Clippings（阿西_出海） |
+| [[PowerAppsTW-CopilotCowork投資儀表板自動化]] | Notes/Clippings（Power Apps & Power Automate輕鬆學） |
 
 ---
 

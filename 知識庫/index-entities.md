@@ -30,6 +30,9 @@ updated: '2026-04-24'
 | [[Chuck Chiang]] | YouTuber | Google AI Studio 逐字稿教學示範者 |
 | [[簡睿學堂]] | YouTuber | Obsidian 工具教學系列創作者 |
 | [[李哈利Harry]] | YouTuber | AI 工具評測與教學（Claude Design 實戰示範者） |
+| [[Gary Chen]] | YouTuber | task decomposition / agentic workflow 教學創作者 |
+| [[阿西_出海]] | YouTuber | AI Skill 篩選與分類教學創作者 |
+| [[Power Apps  & Power Automate輕鬆學]] | YouTuber | Power Platform / M365 Copilot Cowork 教學頻道 |
 
 ---
 

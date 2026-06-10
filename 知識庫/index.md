@@ -12,7 +12,7 @@ updated: '2026-06-05'
 
 ---
 
-## 1. Concepts（43）
+## 1. Concepts（44）
 
 ### 知識管理
 - [[第二大腦]]
@@ -30,6 +30,7 @@ updated: '2026-06-05'
 - [[Claude Code設定四層]]
 - [[XOOPS開發規範]]
 - [[Claude Design]]
+- [[任務拆解]]
 
 ### 工具設定
 - [[Markdown語法]]
@@ -57,7 +58,7 @@ updated: '2026-06-05'
 
 ---
 
-## 2. Entities（32）
+## 2. Entities（35）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -88,7 +89,7 @@ updated: '2026-06-05'
 
 ---
 
-## 3. Sources（62）
+## 3. Sources（65）
 
 ### 代表性來源
 - [[基金小姐姐-台股主動基金的長期優勢]]

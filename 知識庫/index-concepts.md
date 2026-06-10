@@ -41,6 +41,7 @@ updated: '2026-04-24'
 | [[Claude Code設定四層]] | CLAUDE.md / Rules / Memory / Hooks 四層遞進 |
 | [[XOOPS開發規範]] | XOOPS 2.5 標準化開發規範（Procedural PHP / Smarty / Bootstrap 5 等） |
 | [[Claude Design]] | Anthropic 視覺設計工具，Opus 4.7 驅動，品牌系統/PPT/網頁一站生成 |
+| [[任務拆解]] | 把 Human SOP 轉成 agent 可執行的 Agentic Workflow 四步法 |
 
 ---
 
