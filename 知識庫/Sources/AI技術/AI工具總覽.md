@@ -16,7 +16,7 @@ extracted_concepts:
   - "[[提示詞工程]]"
 extracted_entities:
   - "[[ChatGPT]]"
-  - "[[Claude]]"
+  - "[[Claude AI]]"
   - "Perplexity"
   - "Gemini"
   - "[[NotebookLM]]"
@@ -44,5 +44,5 @@ extracted_entities:
 - [[多模態]]
 - [[Context Window]]
 - [[ChatGPT]]
-- [[Claude]]
+- [[Claude AI]]
 - [[NotebookLM]]

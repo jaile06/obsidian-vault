@@ -49,7 +49,7 @@ updated: '2026-06-10'
 |------|------|---------|
 | [[XOOPS]] | 開源 CMS | PHP 模組化 CMS 平台，本庫主用 2.5 版 |
 | [[ChatGPT]] | AI工具 | OpenAI 開發的通用 AI 工具 |
-| [[Claude]] | AI工具 | Anthropic AI 助手，資安高、編程強，本庫核心引擎 |
+| [[Claude AI]] | AI工具 | Anthropic AI 助手，資安高、編程強，本庫核心引擎 |
 | [[NotebookLM]] | AI工具 | Google 的 RAG 架構知識整理工具 |
 | [[Google AI Studio]] | AI開發平台 | Gemini 模型入口與影片逐字稿提取平台 |
 | [[dotLLM]] | 開源工具 | C#/.NET 原生 LLM 推理引擎 |

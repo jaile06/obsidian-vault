@@ -5,7 +5,7 @@ author: ["[[三師爸Sense Bar]]"]
 published: 2026-04-07
 tags: [Obsidian, 知識管理, AI筆記, Claude, 第二大腦]
 extracted_concepts: ["[[第二大腦]]", "[[知識管理系統]]", "[[提示詞工程]]"]
-extracted_entities: ["[[三師爸Sense Bar]]", "[[NotebookLM]]", "[[Claude]]"]
+extracted_entities: ["[[三師爸Sense Bar]]", "[[NotebookLM]]", "[[Claude AI]]"]
 ---
 
 ## 摘要（3 句內）

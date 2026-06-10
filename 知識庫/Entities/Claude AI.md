@@ -1,6 +1,8 @@
 ---
 type: entity
 role: "AI 助手（Anthropic）"
+aliases:
+  - Claude
 tags:
   - AI工具
 related_concepts:

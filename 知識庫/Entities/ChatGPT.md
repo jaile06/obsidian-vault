@@ -18,5 +18,5 @@ OpenAI 開發的大型語言模型對話介面，是目前最廣泛使用的 AI 
 
 ## 與其他人物的關聯
 
-- 與 [[Claude]]、Gemini、Perplexity 為競爭產品
+- 與 [[Claude AI|Claude]]、Gemini、Perplexity 為競爭產品
 - [[NotebookLM]] 使用不同架構（RAG）

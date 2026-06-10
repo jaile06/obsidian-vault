@@ -77,7 +77,7 @@ updated: '2026-06-10'
 - [[Lewis搞事日記]]
 - [[Martina在进化]]
 - [[MarkItDown]]
-- [[Claude]]
+- [[Claude AI]]
 - [[基金小姐姐詹璇依]]
 - [[安聯台灣科技]]
 - [[統一奔騰]]

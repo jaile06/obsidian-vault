@@ -5,7 +5,7 @@ author: ["[[Paula 寶拉]]"]
 published: 2026-04-14
 tags: [Obsidian, 知識管理, AI筆記, Claude Code, Karpathy, 第二大腦]
 extracted_concepts: ["[[第二大腦]]", "[[知識管理系統]]", "[[RAG]]"]
-extracted_entities: ["[[Paula 寶拉]]", "[[Andrej Karpathy]]", "[[Claude]]"]
+extracted_entities: ["[[Paula 寶拉]]", "[[Andrej Karpathy]]", "[[Claude AI]]"]
 ---
 
 ## 摘要（3 句內）
