@@ -1,7 +1,7 @@
 ---
 title: 知識庫索引
 type: index
-updated: '2026-06-05'
+updated: '2026-06-10'
 
 ---
 
@@ -12,7 +12,7 @@ updated: '2026-06-05'
 
 ---
 
-## 1. Concepts（44）
+## 1. Concepts（45）
 
 ### 知識管理
 - [[第二大腦]]
@@ -58,7 +58,7 @@ updated: '2026-06-05'
 
 ---
 
-## 2. Entities（35）
+## 2. Entities（38）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -77,6 +77,7 @@ updated: '2026-06-05'
 - [[Lewis搞事日記]]
 - [[Martina在进化]]
 - [[MarkItDown]]
+- [[Claude]]
 - [[基金小姐姐詹璇依]]
 - [[安聯台灣科技]]
 - [[統一奔騰]]
@@ -154,3 +155,9 @@ updated: '2026-06-05'
 - [[index-entities]]
 - [[index-sources]]
 - [[log]]
+
+---
+
+## 6. 健康檢查報告
+
+- [[WeeklyReport_2026-06-10]]

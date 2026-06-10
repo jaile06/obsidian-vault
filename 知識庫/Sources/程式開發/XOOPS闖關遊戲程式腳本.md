@@ -12,7 +12,7 @@ extracted_concepts:
   - "[[Google Apps Script]]"
 extracted_entities:
   - "[[XOOPS]]"
-  - "[[DiceBear]]"
+  - "DiceBear"
 ---
 
 ## 摘要（3 句內）

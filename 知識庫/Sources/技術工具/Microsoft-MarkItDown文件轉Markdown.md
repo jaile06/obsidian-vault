@@ -2,7 +2,7 @@
 type: source
 original_path: "Clippings/microsoftmarkitdown Python tool for converting files and office documents to Markdown.md"
 author:
-  - "[[microsoft]]"
+  - "Microsoft"
 published: 2026-05-05
 source: "https://github.com/microsoft/markitdown"
 tags:

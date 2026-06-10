@@ -2,7 +2,7 @@
 type: source
 original_path: "Notes/Clippings/Karpathy  AI 知识库构建方法分享 附SKILL.md"
 author:
-  - "[[Lewis搞事日记]]"
+  - "[[Lewis搞事日記]]"
 published: 2026-04-06
 source: "https://www.youtube.com/watch?v=qTe_LlKvSfo"
 tags:
@@ -12,7 +12,7 @@ extracted_concepts:
   - "[[Karpathy筆記方法]]"
   - "[[Obsidian Skill]]"
 extracted_entities:
-  - "[[Lewis搞事日记]]"
+  - "[[Lewis搞事日記]]"
   - "[[Andrej Karpathy]]"
 created: 2026-05-05
 updated: 2026-05-05

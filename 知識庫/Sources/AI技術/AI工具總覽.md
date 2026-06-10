@@ -17,10 +17,10 @@ extracted_concepts:
 extracted_entities:
   - "[[ChatGPT]]"
   - "[[Claude]]"
-  - "[[Perplexity]]"
-  - "[[Gemini]]"
+  - "Perplexity"
+  - "Gemini"
   - "[[NotebookLM]]"
-  - "[[Gamma]]"
+  - "Gamma"
   - "[[Google AI Studio]]"
 ---
 

@@ -4,8 +4,8 @@ original_path: "Notes/Clippings/LLM Wiki - Andrej Karpathy.md"
 author: ["Andrej Karpathy"]
 published: "2026"
 tags: [知識管理, LLM, Wiki, 第二大腦]
-extracted_concepts: ["[[Karpathy筆記方法]]", "[[知識管理系統]]", "[[RAG]]", "[[第二大腦]]", "[[Memex]]", "[[Marp]]", "[[Dataview]]", "[[qmd搜尋引擎]]"]
-extracted_entities: ["[[Andrej Karpathy]]", "[[NotebookLM]]", "[[ChatGPT]]", "[[Obsidian]]"]
+extracted_concepts: ["[[Karpathy筆記方法]]", "[[知識管理系統]]", "[[RAG]]", "[[第二大腦]]", "[[Memex]]", "Marp", "Dataview", "[[qmd搜尋引擎]]"]
+extracted_entities: ["[[Andrej Karpathy]]", "[[NotebookLM]]", "[[ChatGPT]]", "Obsidian"]
 ---
 
 ## 摘要

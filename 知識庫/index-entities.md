@@ -1,7 +1,7 @@
 ---
 title: Entities 索引
 type: index
-updated: '2026-04-24'
+updated: '2026-06-10'
 ---
 
 # Entities 索引
@@ -33,6 +33,13 @@ updated: '2026-04-24'
 | [[Gary Chen]] | YouTuber | task decomposition / agentic workflow 教學創作者 |
 | [[阿西_出海]] | YouTuber | AI Skill 篩選與分類教學創作者 |
 | [[Power Apps  & Power Automate輕鬆學]] | YouTuber | Power Platform / M365 Copilot Cowork 教學頻道 |
+| [[Nico投资有道]] | YouTuber | Obsidian + Claudian 知識庫入門教學創作者 |
+| [[Lewis搞事日記]] | YouTuber | Karpathy 知識庫方法中文推廣（附 SKILL 配置） |
+| [[Martina在进化]] | YouTuber | AI 第二大腦與靈感管理教學創作者 |
+| [[基金小姐姐詹璇依]] | YouTuber | 台股主動基金與主動式 ETF 理財頻道 |
+| [[鈔能力實驗室]] | YouTuber | 富人借貸思維與財務槓桿論述頻道 |
+| [[蕭碧燕]] | 講師 / 基金專家 | 母子基金策略與配息觀念推廣者 |
+| [[簡單經濟學]] | YouTuber | 小資族理財入門教學頻道 |
 
 ---
 
@@ -42,10 +49,23 @@ updated: '2026-04-24'
 |------|------|---------|
 | [[XOOPS]] | 開源 CMS | PHP 模組化 CMS 平台，本庫主用 2.5 版 |
 | [[ChatGPT]] | AI工具 | OpenAI 開發的通用 AI 工具 |
+| [[Claude]] | AI工具 | Anthropic AI 助手，資安高、編程強，本庫核心引擎 |
 | [[NotebookLM]] | AI工具 | Google 的 RAG 架構知識整理工具 |
 | [[Google AI Studio]] | AI開發平台 | Gemini 模型入口與影片逐字稿提取平台 |
 | [[dotLLM]] | 開源工具 | C#/.NET 原生 LLM 推理引擎 |
+| [[MarkItDown]] | 開源工具 | Microsoft 開源的文件轉 Markdown 工具 |
 | [[Adobe Color]] | 設計工具 | 從圖片自動取色並輸出色票 |
+| [[Canva]] | 設計工具 | 線上設計平台，上傳圖片產 4 色配色方案 |
+| [[Coolors]] | 設計工具 | 快速隨機生成五色調色盤，輸出 HEX/RGB |
+
+---
+
+## 組織 / 基金
+
+| 頁面 | 類型 | 一行摘要 |
+|------|------|---------|
+| [[安聯台灣科技]] | 基金 | 台股科技主動基金代表標的 |
+| [[統一奔騰]] | 基金 | 台股主動基金代表標的 |
 
 ---
 

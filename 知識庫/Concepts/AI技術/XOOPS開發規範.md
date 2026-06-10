@@ -15,8 +15,8 @@ sources:
   - "[[XOOPS-PromptKit-三種開發Prompt]]"
   - "[[XOOPS-任務單範本]]"
   - "[[XOOPS闖關遊戲程式腳本]]"
-  - "[[conv:2026-04-23-OpenSpec整合XOOPS開發專案]]"
-  - "[[conv:2026-04-23-OpenSpec-XOOPS開發規範操作手冊]]"
+  - "[[2026-04-23-OpenSpec整合XOOPS開發專案]]"
+  - "[[2026-04-23-OpenSpec-XOOPS開發規範操作手冊]]"
 created: 2026-04-23
 updated: 2026-05-06
 ---

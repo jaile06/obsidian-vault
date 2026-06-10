@@ -25,8 +25,8 @@ sources:
   - "[[QQ-限制AI自由度AI編程]]"
   - "[[工程師下班有約-ClaudeCode實戰OpenSpec]]"
   - "[[ZEDOTECH-OpenSpec實戰VSCode示範]]"
-  - "[[conv:2026-04-23-OpenSpec整合XOOPS開發專案]]"
-  - "[[conv:2026-04-23-OpenSpec安裝初始化]]"
+  - "[[2026-04-23-OpenSpec整合XOOPS開發專案]]"
+  - "[[2026-04-23-OpenSpec安裝初始化]]"
 created: 2026-04-22
 updated: 2026-05-06
 ---

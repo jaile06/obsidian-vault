@@ -5,7 +5,7 @@ author: ["[[范凱说AI]]"]
 published: 2026-04-13
 tags: [知識管理, Obsidian, Karpathy, 五層架構, 內容創作]
 extracted_concepts: ["[[五層知識庫架構]]", "[[AI確認機制]]", "[[知識管理系統]]", "[[Karpathy筆記方法]]"]
-extracted_entities: ["[[范凱说AI]]", "[[OpenClaw]]"]
+extracted_entities: ["[[范凱说AI]]", "OpenClaw"]
 ---
 
 ## 摘要（3 句內）
