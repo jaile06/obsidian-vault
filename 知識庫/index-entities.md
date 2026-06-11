@@ -1,7 +1,7 @@
 ---
 title: Entities 索引
 type: index
-updated: '2026-06-10'
+updated: '2026-06-11'
 ---
 
 # Entities 索引
@@ -57,6 +57,7 @@ updated: '2026-06-10'
 | [[Adobe Color]] | 設計工具 | 從圖片自動取色並輸出色票 |
 | [[Canva]] | 設計工具 | 線上設計平台，上傳圖片產 4 色配色方案 |
 | [[Coolors]] | 設計工具 | 快速隨機生成五色調色盤，輸出 HEX/RGB |
+| [[UI-UX-Pro-Max]] | Claude Skill 套件 | 161 產業規則 × 色板資料庫的 AI 設計系統生成工具 |
 
 ---
 

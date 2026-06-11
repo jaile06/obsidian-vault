@@ -4,9 +4,9 @@ aliases: ["Claude Skill", "技能封裝", "Skill"]
 tags: [AI技術, Claude-Code, 自動化, 工作流]
 related_concepts: ["[[MCP]]", "[[提示詞工程]]", "[[AI確認機制]]", "[[任務拆解]]"]
 related_entities: ["[[Paula 寶拉]]", "[[三師爸Sense Bar]]"]
-sources: ["[[Paula寶拉-Antigravity Skill設定]]", "[[Claude基本功EP04-NotebookLM五大進階應用]]", "[[GaryChen-HumanSOP轉AgenticWorkflow四步法]]", "[[阿西出海-8個必裝AISkill分類]]"]
+sources: ["[[Paula寶拉-Antigravity Skill設定]]", "[[Claude基本功EP04-NotebookLM五大進階應用]]", "[[GaryChen-HumanSOP轉AgenticWorkflow四步法]]", "[[阿西出海-8個必裝AISkill分類]]", "[[Anthropic-FrontendDesign-Skill]]", "[[NextLevelBuilder-UIUXProMax-Skill]]"]
 created: 2026-04-17
-updated: 2026-06-10
+updated: 2026-06-11
 ---
 
 ## 定義

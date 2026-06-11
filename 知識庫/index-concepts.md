@@ -1,7 +1,7 @@
 ---
 title: Concepts 索引
 type: index
-updated: '2026-06-10'
+updated: '2026-06-11'
 ---
 
 # Concepts 索引
@@ -65,6 +65,7 @@ updated: '2026-06-10'
 | [[網站配色系統]] | 五色角色系統 + 對比度規範 |
 | [[色彩角色]] | Primary / Secondary / Accent / Background / Text |
 | [[對比度測試]] | 文字與背景對比度標準 |
+| [[AI設計系統生成]] | AI 產出非樣板化設計系統：意圖派（原則+反模式檢視）vs 資料派（產業規則檢索） |
 
 ---
 
