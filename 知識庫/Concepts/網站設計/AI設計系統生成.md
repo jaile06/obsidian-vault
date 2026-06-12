@@ -2,11 +2,11 @@
 type: concept
 aliases: ["Design System Generation", "AI前端設計", "前端設計Skill"]
 tags: [網站設計, AI技術, UI設計, 配色, Agent]
-related_concepts: ["[[網站配色系統]]", "[[Claude-Skill]]", "[[Claude Design]]", "[[任務拆解]]", "[[對比度測試]]"]
+related_concepts: ["[[網站配色系統]]", "[[Claude-Skill]]", "[[Claude Design]]", "[[任務拆解]]", "[[對比度測試]]", "[[網頁圖片策略]]"]
 related_entities: ["[[UI-UX-Pro-Max]]", "[[Claude AI]]"]
 sources: ["[[Anthropic-FrontendDesign-Skill]]", "[[NextLevelBuilder-UIUXProMax-Skill]]"]
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-12
 ---
 
 ## 定義
@@ -21,6 +21,7 @@ updated: 2026-06-11
 - **反模式是一等公民**：兩派都把「不該做什麼」寫成可執行規則（如 spa 產業禁霓虹色），而非只列正面原則
 - **共同底線**：無障礙（WCAG 對比、鍵盤焦點、reduced-motion）不因風格選擇妥協
 - **與五色角色系統的關係**：[[網站配色系統]]的「取色→角色→對比」流程是基礎；本概念補上游的「依產業/主題決定色彩方向」與下游的「反模式檢視」
+- **反模式延伸到圖片層**：[[網頁圖片策略]]把同樣思維用於網站圖片——「去 AI 味」（罐頭圖庫感、塑膠皮膚感）即圖片層的 AI 預設樣貌，同樣以可執行的禁止清單落地
 
 ## 不同視角 / 矛盾之處
 
