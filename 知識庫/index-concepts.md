@@ -1,7 +1,7 @@
 ---
 title: Concepts 索引
 type: index
-updated: '2026-06-11'
+updated: '2026-06-12'
 ---
 
 # Concepts 索引
@@ -42,6 +42,8 @@ updated: '2026-06-11'
 | [[XOOPS開發規範]] | XOOPS 2.5 標準化開發規範（Procedural PHP / Smarty / Bootstrap 5 等） |
 | [[Claude Design]] | Anthropic 視覺設計工具，Opus 4.7 驅動，品牌系統/PPT/網頁一站生成 |
 | [[任務拆解]] | 把 Human SOP 轉成 agent 可執行的 Agentic Workflow 四步法 |
+| [[Evals]] | 量測 agent 任務正確率，「更多 context 反而更差」唯有量測可見 |
+| [[Harness工程]] | 狀態機關卡 + 證據驗證，用 code 強制 agent 流程而非 prompt |
 
 ---
 

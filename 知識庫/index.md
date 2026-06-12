@@ -1,7 +1,7 @@
 ---
 title: 知識庫索引
 type: index
-updated: '2026-06-11'
+updated: '2026-06-12'
 
 ---
 
@@ -12,7 +12,7 @@ updated: '2026-06-11'
 
 ---
 
-## 1. Concepts（46）
+## 1. Concepts（48）
 
 ### 知識管理
 - [[第二大腦]]
@@ -31,6 +31,8 @@ updated: '2026-06-11'
 - [[XOOPS開發規範]]
 - [[Claude Design]]
 - [[任務拆解]]
+- [[Evals]]
+- [[Harness工程]]
 
 ### 工具設定
 - [[Markdown語法]]
@@ -58,7 +60,7 @@ updated: '2026-06-11'
 
 ---
 
-## 2. Entities（39）
+## 2. Entities（41）
 
 ### 核心人物 / 頻道 / 工具
 - [[Andrej Karpathy]]
@@ -85,13 +87,15 @@ updated: '2026-06-11'
 - [[蕭碧燕]]
 - [[簡單經濟學]]
 - [[UI-UX-Pro-Max]]
+- [[Nick Nisi]]
+- [[Jim AI Notebook]]
 
 **完整清單：**
 - [[index-entities]]
 
 ---
 
-## 3. Sources（67）
+## 3. Sources（68）
 
 ### 代表性來源
 - [[基金小姐姐-台股主動基金的長期優勢]]
@@ -114,6 +118,7 @@ updated: '2026-06-11'
 - [[Martina在进化-AI第二大腦告別靈感焦慮]]
 - [[Lewis搞事日記-Karpathy知識庫SKILL]]
 - [[Microsoft-MarkItDown文件轉Markdown]]
+- [[AIEngineer-NickNisi-刪除95%AgentSkills]]
 - [[國中會考國文解析-110]]
 - [[國中會考國文解析-111]]
 - [[國中會考國文解析-112]]

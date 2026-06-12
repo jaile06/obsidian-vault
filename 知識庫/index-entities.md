@@ -1,7 +1,7 @@
 ---
 title: Entities 索引
 type: index
-updated: '2026-06-11'
+updated: '2026-06-12'
 ---
 
 # Entities 索引
@@ -40,6 +40,8 @@ updated: '2026-06-11'
 | [[鈔能力實驗室]] | YouTuber | 富人借貸思維與財務槓桿論述頻道 |
 | [[蕭碧燕]] | 講師 / 基金專家 | 母子基金策略與配息觀念推廣者 |
 | [[簡單經濟學]] | YouTuber | 小資族理財入門教學頻道 |
+| [[Nick Nisi]] | 工程師 / 講者 | WorkOS DX 工程師，harness 工程與「刪 95% skills」實驗者 |
+| [[Jim AI Notebook]] | YouTuber | AI 新知中文導讀頻道（Note the Future） |
 
 ---
 

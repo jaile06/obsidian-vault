@@ -1,7 +1,7 @@
 ---
 title: Sources 索引
 type: index
-updated: '2026-06-11'
+updated: '2026-06-12'
 ---
 
 # Sources 索引
@@ -37,6 +37,7 @@ updated: '2026-06-11'
 | [[GaryChen-HumanSOP轉AgenticWorkflow四步法]] | Notes/Clippings（Gary Chen） |
 | [[阿西出海-8個必裝AISkill分類]] | Notes/Clippings（阿西_出海） |
 | [[PowerAppsTW-CopilotCowork投資儀表板自動化]] | Notes/Clippings（Power Apps & Power Automate輕鬆學） |
+| [[AIEngineer-NickNisi-刪除95%AgentSkills]] | Notes/Clippings（AI Engineer 演講 + Jim AI Notebook 導讀，兩檔合併） |
 
 ---
 

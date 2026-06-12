@@ -2,11 +2,11 @@
 type: concept
 aliases: [Human-in-the-loop, AI先提案後確認]
 tags: [AI工作流, 知識管理, 自動化]
-related_concepts: ["[[Karpathy筆記方法]]", "[[五層知識庫架構]]", "[[提示詞工程]]"]
+related_concepts: ["[[Karpathy筆記方法]]", "[[五層知識庫架構]]", "[[提示詞工程]]", "[[Harness工程]]"]
 related_entities: ["[[范凱说AI]]"]
 sources: ["[[范凱-五層架構改造Karpathy方法]]"]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-06-12
 ---
 
 ## 定義
@@ -23,6 +23,7 @@ updated: 2026-04-17
 ## 不同視角 / 矛盾之處
 
 - Karpathy 偏好全自動；范凱加入確認步驟。兩者取決於對「錯誤容忍度」的判斷
+- [[Harness工程]] 走第三條路：同樣不信任 AI，但用程式碼關卡與不可造假的證據（雜湊驗證、錄影）取代人工確認，追求無人值守的規模化——人工確認適合低頻高判斷場景，harness 適合高頻可程式化驗證的場景
 
 ## 延伸問題
 
